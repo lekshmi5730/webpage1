@@ -1,0 +1,71 @@
+.heading {
+    text-align: center;
+    color: blue;
+    
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    width:  350px;
+    height: 450px;
+    
+    
+}
+.we{
+
+    text-align: center;
+    padding-top: 5%;
+    
+   
+}
+
+.aboutphoto{
+    margin-right: 80%;
+  
+    
+}
+.ty{
+    margin-left: 40%;
+    margin-top: -24%;
+    
+}
+.card{
+    margin-top: 10%;
+}
+.h2{
+    
+    padding-top: 9%;
+    
+    font-family: "Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
+}
+.p{
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+.row{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+
+
+.un0{
+    text-align-last: center;
+    /* text-align: center; */
+    padding-left: 10px;
+    padding-bottom: 2%;
+}
+.col-md-8{
+    padding-top: 9%;
+}
+.ty{
+   padding-bottom: -2%;
+   margin-right: 5%;
+   padding-right: 3%;
+   
+}
